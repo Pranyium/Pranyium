@@ -1,7 +1,7 @@
 # Sebastian Salazar
 
-soy estudiante del instituto profesional Virginio Gomez
+Soy estudiante del instituto profesional Virginio Gomez, insertar más texto despues
 ---
 ## nose que mas poner
 
-**este texto es negro**
+**creo este texto es negro, se necesita confirmación**
